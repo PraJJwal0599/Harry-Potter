@@ -1,7 +1,7 @@
 def sum() -> int:
-    a = float(input("enter the first number: "))
-    b = float(input("enter the second number: "))
-    c = a + b
+    x = float(input("enter the first digit: "))
+    y = float(input("enter the second digit: "))
+    z = x + y
     print(c)
 
 sum()
