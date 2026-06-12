@@ -60,3 +60,5 @@ while current_loc != "hogwarts":
             print("You cannot leave for Hogwarts without all the iteams from the list.")
 
 print("Congratulations you have all the iteams.\n Have a wonderful wizarding future ahead.")
+
+print("new change: you are learning the basics.")
